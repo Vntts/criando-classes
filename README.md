@@ -10,7 +10,10 @@ além disso, criei um método chamado atacar que atenda aos seguintes requisitos
 
 -console.log: "o {tipo} atacou usando {ataque}")
 e no {ataque} segue uma descrição diferente conforme o tipo escolhido, seguindo a tabela abaixo:
-se mago -> no ataque exibir (usou magia) se guerreiro -> no ataque exibir (usou espada) se monge -> no ataque exibir (usou artes marciais) se ninja -> no ataque exibir (usou shuriken) > ESCOLHIDO
+se mago -> no ataque exibir (usou magia) 
+se guerreiro -> no ataque exibir (usou espada) 
+se monge -> no ataque exibir (usou artes marciais) 
+se ninja -> no ataque exibir (usou shuriken) > ESCOLHIDO
 
 -Saída
 Ao final é exibida uma mensagem:
